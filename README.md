@@ -42,3 +42,10 @@ $ docker start mydb
 Stop it:
 
 $ docker stop mydb
+
+
+# References
+
+Please follow https://stackoverflow.com/questions/42912755/how-to-create-a-db-for-mongodb-container-on-start-up
+
+Thanks, 
